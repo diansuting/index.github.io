@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<title>My first webpage</title>
+		<meta http-equiv="Content-Type" content="text/html;charset=gb2312"/>
+	</head>
+	<body>
+		<p> Hello World !</p>
+		<img src="abc.jpg" alt="This is a picture"/>
+	</body>
+</html>
