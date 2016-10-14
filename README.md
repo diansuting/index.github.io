@@ -30,7 +30,11 @@ and 设备类型表. 设备类型编号=设备表.设备类型编号
 and datediff(current_date,时间)>检修周期;
       
 #### ER图截图
-![ER 图]()
+![ER 图](http://f.hiphotos.baidu.com/image/pic/item/4afbfbedab64034f557037e0a7c379310b551d92.jpg)
+          
+#### 原型地址
+[链接](http://127.0.0.1:32767/start.html#p=home&g=1)
+
 
 
 
