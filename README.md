@@ -2,7 +2,7 @@
 ##设备管理系统用例建模
      
 ###用例图
-![sql查询语句](http://d.hiphotos.baidu.com/image/pic/item/241f95cad1c8a786e2aff8dd6f09c93d71cf505f.jpg)
+![sql查询语句](http://h.hiphotos.baidu.com/image/pic/item/1ad5ad6eddc451dac662b038befd5266d1163248.jpg)
       
 ###用例说明
 ![sql查询语句](http://c.hiphotos.baidu.com/image/pic/item/314e251f95cad1c88d3e4ef4773e6709c83d515f.jpg)
